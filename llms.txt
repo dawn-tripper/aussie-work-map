@@ -1,12 +1,14 @@
 # Aussie Work Map
 
+Also known as 澳打集簽地圖 (Traditional Chinese) and 澳打集签地图 (Simplified Chinese). People sometimes write the English name as AussieWorkMap or Aussie Workmap.
+
 > A free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work.
 
 Site: https://dawn-tripper.github.io/aussie-work-map/
 
 ## What this site is
 
-Aussie Work Map is an independent planning tool. Choose a visa (417 or 462), enter an Australian postcode, and pick a job type. The site tells you whether that place and job count as specified work towards a second or third year visa, based on official postcode lists and legal instruments.
+Aussie Work Map (澳打集簽地圖) is an independent planning tool. Choose a visa (417 or 462), enter an Australian postcode, and pick a job type. The site tells you whether that place and job count as specified work towards a second or third year visa, based on official postcode lists and legal instruments.
 
 It is not legal or migration advice, and it is not affiliated with the Australian Government. Rules and postcode lists can change; always confirm with the Department of Home Affairs or a registered migration agent before relying on a result.
 
