@@ -1,0 +1,70 @@
+# Aussie Work Map
+
+> A free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work.
+
+Site: https://dawn-tripper.github.io/aussie-work-map/
+
+## What this site is
+
+Aussie Work Map is an independent planning tool. Choose a visa (417 or 462), enter an Australian postcode, and pick a job type. The site tells you whether that place and job count as specified work towards a second or third year visa, based on official postcode lists and legal instruments.
+
+It is not legal or migration advice, and it is not affiliated with the Australian Government. Rules and postcode lists can change; always confirm with the Department of Home Affairs or a registered migration agent before relying on a result.
+
+Created by Dawn.
+
+## How to use it
+
+- Open https://dawn-tripper.github.io/aussie-work-map/
+- Select subclass 417 (Working Holiday) or subclass 462 (Work and Holiday)
+- Enter the postcode of the place where the work is actually done (not necessarily a home address)
+- Choose a job type, or browse all job types for that postcode
+- Or explore the map of Australian postcode areas
+
+You can also open a given state with URL parameters, for example `/?visa=462&job=mining&pc=6714&lang=zh`. A data sources and methodology page is at `/#/sources`.
+
+## Visas
+
+- Subclass 417 — Working Holiday visa
+- Subclass 462 — Work and Holiday visa
+
+To apply for a second or third visa, holders must usually complete a prescribed minimum period of specified work in certain industries and areas (Home Affairs: a second visa requires at least 3 months / 88 calendar days of specified work on the first visa; a third visa requires at least 6 months / 179 calendar days of specified work on the second visa). All specified work must be paid in accordance with relevant Australian legislation and awards, except that voluntary work may count when it is recovery work in bushfire-declared areas or other declared natural-disaster areas.
+
+UK passport holders who lodge a subclass 417 application on or after 1 July 2024 do not need to complete specified work for a second or third 417 visa. See the Home Affairs arrangements for UK passport holders.
+
+## Job categories checked
+
+Eligibility depends on both the visa and the area. The site covers:
+
+- Plant and animal cultivation
+- Fishing and pearling
+- Tree farming and felling
+- Mining
+- Construction
+- Tourism and hospitality (from 22 June 2021, in Northern or Remote and Very Remote Australia, plus postcodes 4406, 4416, 4498 and 7215)
+- Bushfire recovery work (in declared bushfire-affected areas, work carried out after 31 July 2019)
+- Flood / cyclone / severe weather recovery work (in declared areas, work carried out after 31 December 2021)
+- Critical COVID-19 work in the healthcare and medical sectors (anywhere in Australia, after 31 January 2020)
+
+417 and 462 rules are not the same. In particular, mining is not specified work for subclass 462 anywhere in Australia, and fishing/pearling and tree farming and felling count for 462 only in Northern Australia. Always check the official pages for the current rules.
+
+## Languages
+
+The interface is available in 9 languages: English, Traditional Chinese, Simplified Chinese, Korean, Japanese, French, Italian, German, and Indonesian.
+
+## Official data sources
+
+Eligibility answers are taken from official sources only; nothing is inferred from blogs or forums.
+
+- Department of Home Affairs, Specified work for Working Holiday visa (subclass 417): https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/specified-work (page last updated 4 November 2026; accessed 14 November 2026)
+- Department of Home Affairs, Specified work for Work and Holiday visa (subclass 462): https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462/specified-462-work (accessed 14 November 2026)
+- LIN 22/012, Migration (Specified work and areas for subclass 417 visas) Instrument 2022, Compilation No. 3, F2025C00411, compiled 5 April 2025: https://www.legislation.gov.au/F2022L00271/latest
+- LIN 22/013, Migration (Specified work and areas for subclass 462 visas) Instrument 2022, Compilation No. 3, F2025C00412, compiled 5 April 2025: https://www.legislation.gov.au/F2022L00272/latest
+
+Map polygons are Australian Bureau of Statistics Postal Areas 2021 (CC BY 4.0) and are for display only. Suburb and region labels come from an open community dataset and never decide eligibility. Rules on this site were last verified 14 November 2026 (Asia/Taipei).
+
+## Contact and community
+
+- Instagram: https://www.instagram.com/dawn.tripper/
+- Skool community (TOP SOLO): https://www.skool.com/top-solo-7538/about
+- Ko-fi: https://ko-fi.com/dawntripper
+- Email: godawn282828@gmail.com

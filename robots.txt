@@ -1,0 +1,25 @@
+# Note: this file lives at /aussie-work-map/robots.txt on GitHub Pages.
+# Crawlers only fetch robots.txt from the site root (dawn-tripper.github.io/robots.txt),
+# which currently has no file and therefore defaults to allow.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://dawn-tripper.github.io/aussie-work-map/sitemap.xml
