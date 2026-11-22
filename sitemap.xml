@@ -1,9 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dawn-tripper.github.io/aussie-work-map/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=zh</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=ko</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=ja</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=fr</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=it</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=de</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
+  </url>
+  <url>
+    <loc>https://dawn-tripper.github.io/aussie-work-map/?lang=id</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
   </url>
 </urlset>

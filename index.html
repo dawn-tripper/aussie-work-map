@@ -5,16 +5,30 @@
     <link rel="icon" type="image/png" href="./favicon.png" />
     <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aussie Work Map 澳打集簽地圖 | 417/462 Specified Work Postcode Checker</title>
-    <meta name="description" content="Aussie Work Map（澳打集簽地圖 / 澳打集签地图） is a free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work. See whether a job and postcode count towards a second or third year visa in regional Australia. Available in 9 languages." />
+    <title>澳打集簽地圖 Aussie Work Map｜專為澳洲打工度假者製作的地圖</title>
+    <meta name="description" content="澳打集簽地圖 Aussie Work Map：專為澳洲打工度假者製作的免費集簽地圖。輸入工作地點郵遞區號，查 417／462 指定工作（集簽）算不算、二簽三簽天數與偏遠地區郵遞區號，含 2027 年新制重點。" />
+    <meta name="application-name" content="澳打集簽地圖" />
+    <meta name="apple-mobile-web-app-title" content="澳打集簽地圖" />
     <meta name="author" content="Dawn" />
     <meta name="theme-color" content="#249B86" />
-    <link rel="canonical" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <!-- Canonical is per language (English = bare URL, others = ?lang=xx). Set here before render and kept in sync by src/lib/seo.ts. -->
+    <script>(function(){try{var l=new URLSearchParams(location.search).get('lang');var ok=['zh','zh-CN','ko','ja','fr','it','de','id'];if(l==='zh-TW'||l==='zh-Hant')l='zh';if(l==='zh-Hans')l='zh-CN';var c=document.createElement('link');c.rel='canonical';c.href='https://dawn-tripper.github.io/aussie-work-map/'+(ok.indexOf(l)>=0?'?lang='+l:'');document.head.appendChild(c);}catch(e){}})();</script>
+    <link rel="alternate" hreflang="en" href="https://dawn-tripper.github.io/aussie-work-map/" />
+    <link rel="alternate" hreflang="zh-Hant" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <link rel="alternate" hreflang="zh-Hans" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh-CN" />
+    <link rel="alternate" hreflang="ko" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ko" />
+    <link rel="alternate" hreflang="ja" href="https://dawn-tripper.github.io/aussie-work-map/?lang=ja" />
+    <link rel="alternate" hreflang="fr" href="https://dawn-tripper.github.io/aussie-work-map/?lang=fr" />
+    <link rel="alternate" hreflang="it" href="https://dawn-tripper.github.io/aussie-work-map/?lang=it" />
+    <link rel="alternate" hreflang="de" href="https://dawn-tripper.github.io/aussie-work-map/?lang=de" />
+    <link rel="alternate" hreflang="id" href="https://dawn-tripper.github.io/aussie-work-map/?lang=id" />
+    <link rel="alternate" hreflang="zh-TW" href="https://dawn-tripper.github.io/aussie-work-map/?lang=zh" />
+    <link rel="alternate" hreflang="x-default" href="https://dawn-tripper.github.io/aussie-work-map/" />
 
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Aussie Work Map 澳打集簽地圖" />
-    <meta property="og:title" content="Aussie Work Map 澳打集簽地圖 | 417 / 462 specified work postcode checker" />
-    <meta property="og:description" content="Aussie Work Map（澳打集簽地圖 / 澳打集签地图） is a free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work. See whether a job and postcode count towards a second or third year visa in regional Australia. Available in 9 languages." />
+    <meta property="og:site_name" content="澳打集簽地圖" />
+    <meta property="og:title" content="澳打集簽地圖 Aussie Work Map｜專為澳洲打工度假者製作的地圖" />
+    <meta property="og:description" content="澳打集簽地圖 Aussie Work Map：專為澳洲打工度假者製作的免費集簽地圖。輸入工作地點郵遞區號，查 417／462 指定工作（集簽）算不算、二簽三簽天數與偏遠地區郵遞區號，含 2027 年新制重點。" />
     <meta property="og:url" content="https://dawn-tripper.github.io/aussie-work-map/" />
     <meta property="og:image" content="https://dawn-tripper.github.io/aussie-work-map/og-image.png" />
     <meta property="og:image:secure_url" content="https://dawn-tripper.github.io/aussie-work-map/og-image.png" />
@@ -22,8 +36,8 @@
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:alt" content="Aussie Work Map 澳打集簽地圖 — 417 / 462 specified work postcode checker" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:locale:alternate" content="zh_TW" />
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:locale:alternate" content="en_US" />
     <meta property="og:locale:alternate" content="zh_CN" />
     <meta property="og:locale:alternate" content="ko_KR" />
     <meta property="og:locale:alternate" content="ja_JP" />
@@ -33,10 +47,10 @@
     <meta property="og:locale:alternate" content="id_ID" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Aussie Work Map 澳打集簽地圖 | 417 / 462 specified work postcode checker" />
-    <meta name="twitter:description" content="Aussie Work Map（澳打集簽地圖 / 澳打集签地图） is a free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work. See whether a job and postcode count towards a second or third year visa in regional Australia. Available in 9 languages." />
+    <meta name="twitter:title" content="澳打集簽地圖 Aussie Work Map｜專為澳洲打工度假者製作的地圖" />
+    <meta name="twitter:description" content="澳打集簽地圖 Aussie Work Map：專為澳洲打工度假者製作的免費集簽地圖。輸入工作地點郵遞區號，查 417／462 指定工作（集簽）算不算、二簽三簽天數與偏遠地區郵遞區號，含 2027 年新制重點。" />
     <meta name="twitter:image" content="https://dawn-tripper.github.io/aussie-work-map/og-image.png" />
-    <meta name="twitter:image:alt" content="Aussie Work Map 澳打集簽地圖 — 417 / 462 specified work postcode checker" />
+    <meta name="twitter:image:alt" content="澳打集簽地圖 Aussie Work Map — 417 / 462 集簽（指定工作）郵遞區號地圖" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -47,24 +61,19 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": [
-        "WebSite",
-        "WebApplication"
-      ],
-      "@id": "https://dawn-tripper.github.io/aussie-work-map/#app",
-      "name": "Aussie Work Map",
+      "@type": "WebSite",
+      "@id": "https://dawn-tripper.github.io/aussie-work-map/#website",
+      "name": "澳打集簽地圖",
       "alternateName": [
-        "澳打集簽地圖",
+        "Aussie Work Map",
         "澳打集签地图",
-        "AussieWorkMap",
-        "Aussie Workmap"
+        "AussieWorkMap"
       ],
       "url": "https://dawn-tripper.github.io/aussie-work-map/",
-      "description": "Free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work. See whether a job and postcode count towards a second or third year visa in regional Australia. Available in 9 languages.",
       "inLanguage": [
-        "en",
         "zh-Hant",
         "zh-Hans",
+        "en",
         "ko",
         "ja",
         "fr",
@@ -72,23 +81,36 @@
         "de",
         "id"
       ],
-      "isAccessibleForFree": true,
+      "description": "專為澳洲打工度假者製作的地圖：免費查詢 417／462 指定工作（集簽）郵遞區號。Free 417/462 specified work postcode map for working holiday makers.",
+      "publisher": {
+        "@id": "https://dawn-tripper.github.io/aussie-work-map/#dawn"
+      }
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://dawn-tripper.github.io/aussie-work-map/#app",
+      "name": "澳打集簽地圖 Aussie Work Map",
+      "url": "https://dawn-tripper.github.io/aussie-work-map/",
+      "isPartOf": {
+        "@id": "https://dawn-tripper.github.io/aussie-work-map/#website"
+      },
       "applicationCategory": "TravelApplication",
       "operatingSystem": "Any",
+      "isAccessibleForFree": true,
       "offers": {
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "AUD"
       },
       "author": {
-        "@type": "Person",
-        "name": "Dawn",
-        "url": "https://www.instagram.com/dawn.tripper/",
-        "sameAs": [
-          "https://www.instagram.com/dawn.tripper/",
-          "https://www.skool.com/top-solo-7538/about"
-        ]
-      },
+        "@id": "https://dawn-tripper.github.io/aussie-work-map/#dawn"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://dawn-tripper.github.io/aussie-work-map/#dawn",
+      "name": "Dawn",
+      "url": "https://www.instagram.com/dawn.tripper/",
       "sameAs": [
         "https://www.instagram.com/dawn.tripper/",
         "https://www.skool.com/top-solo-7538/about"
@@ -100,10 +122,26 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is specified work?",
+          "name": "What is \"specified work\"?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Specified work is work undertaken in a specified industry and area of Australia. To apply for a second or third Working Holiday (subclass 417) or Work and Holiday (subclass 462) visa, you must usually have already completed a prescribed minimum period of specified work. The kinds of work and the areas are set by the Department of Home Affairs and by legal instruments LIN 22/012 (417) and LIN 22/013 (462). Always confirm the current rules on the official Home Affairs pages."
+            "text": "Work in certain industries and areas that 417 and 462 visa holders must complete to apply for a 2nd or 3rd visa. 2nd visa: 3 months / 88 days if you finish and lodge by 28 Feb 2027, or 4 months / 120 days from 1 Mar 2027. 3rd visa: 6 months / 179 days. The kinds of work and the areas are set by legal instruments LIN 22/012 (417) and LIN 22/013 (462)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What changes on 1 March 2027?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Home Affairs announced on 17 Nov 2026 that a 2nd visa will need 120 days (4 months) of specified work instead of 88 days. Work done before 1 March 2027 still counts. A 3rd visa still needs 6 months. If you complete your specified work and lodge a valid application by 28 February 2027, you can apply under the current process."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to register before applying for a 2nd or 3rd visa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From 1 March 2027, yes (UK passport holders are exempt). You register your interest and, if invited, receive a Next Year Regional Work Guarantee that lets you apply. Registration opens 1 December 2026 and you can register before finishing your specified work. The first monthly invitation round is expected in mid-January 2027, and an invitation is valid for 12 months. Registering does not guarantee an invitation or a visa."
           }
         },
         {
@@ -127,15 +165,15 @@
           "name": "I have a UK passport. Do I need specified work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For the subclass 417 visa, UK passport holders who lodge an application on or after 1 July 2024 do not need to complete specified work for a second or third Working Holiday visa. These arrangements apply to applicants who use a passport issued by the United Kingdom of Great Britain and Northern Ireland. See the Home Affairs arrangements for UK passport holders."
+            "text": "For the subclass 417 visa, UK passport holders who lodge an application on or after 1 July 2024 do not need to complete specified work for a second or third Working Holiday visa, and they are exempt from the registration and invitation process announced on 17 November 2026."
           }
         },
         {
           "@type": "Question",
-          "name": "Where do Aussie Work Map's postcode lists come from?",
+          "name": "How current is this data?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Postcode lists are taken from the Department of Home Affairs specified-work pages for subclass 417 and subclass 462 (the 417 page was last updated 4 November 2026) and checked against the latest compilations of LIN 22/012 and LIN 22/013 (compilation date 5 April 2025) on 14 November 2026. The tool is independent and not affiliated with the Australian Government. Always confirm with Home Affairs before relying on a result."
+            "text": "Postcode lists come from the Home Affairs specified-work pages (417 page last updated 4 Nov 2026, 462 page 5 Nov 2026) and were checked against the latest compilations of LIN 22/012 and LIN 22/013 (5 April 2025). Re-checked on 22 Nov 2026: the 17 Nov 2026 announcement did not change the postcode lists or the kinds of work."
           }
         }
       ]
@@ -146,23 +184,33 @@
 
     <style>html.js #seo-fallback{display:none!important}#seo-fallback{color:#252936;max-width:46rem;margin:0 auto;padding:2.5rem 1.25rem 4rem;line-height:1.65}#seo-fallback h1{letter-spacing:-.03em;color:#249b86;margin:0 0 .75rem;font-size:2.125rem;font-weight:800;line-height:1.15}#seo-fallback .lead{margin:0 0 1rem;font-size:1.05rem}#seo-fallback .zh{color:#5e6370;margin:0 0 1.5rem}#seo-fallback h2{letter-spacing:-.02em;margin:2rem 0 .6rem;font-size:1.25rem;font-weight:800}#seo-fallback ul,#seo-fallback ol{margin:.4rem 0 0;padding-left:1.25rem}#seo-fallback li{margin:.25rem 0}#seo-fallback a{color:#249b86}#seo-fallback .disclaimer{color:#737887;margin-top:2rem;font-size:.9rem}#seo-fallback dt{margin-top:.9rem;font-weight:700}#seo-fallback dd{color:#5e6370;margin:.25rem 0 0}</style>
     <script>document.documentElement.classList.add('js');</script>
-    <script type="module" crossorigin src="./index-rfCUkWP-.js"></script>
-    <link rel="stylesheet" crossorigin href="./index-BrNFSD9k.css">
+    <script type="module" crossorigin src="./index-DB4l1rnG.js"></script>
+    <link rel="stylesheet" crossorigin href="./index-DzzSY3Ax.css">
   </head>
   <body>
     <div id="root">
       <main id="seo-fallback">
-        <h1>Aussie Work Map 澳打集簽地圖</h1>
+        <h1>澳打集簽地圖 Aussie Work Map</h1>
+        <p class="lead"><strong>專為澳洲打工度假者製作的地圖。</strong></p>
         <p class="lead">A free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work. Enter a visa, a postcode and a job type — or explore the map — to see whether that place and job can count towards a second or third year visa. Also known as AussieWorkMap or Aussie Workmap.</p>
-        <p class="zh">Aussie Work Map（澳打集簽地圖）是免費的澳洲打工度假（417）與工作與度假（462）指定工作（集簽）郵遞區號查詢工具。輸入實際工作地點的郵遞區號與工作類型，即可查看是否可計入第二年或第三年簽證。資料取自澳洲內政部官方清單與相關法律文件，並非法律或移民建議。</p>
-        <p class="zh">Aussie Work Map（澳打集签地图）是免费的澳洲打工度假（417）与工作与度假（462）指定工作（集签）邮递区号查询工具。输入实际工作地点的邮递区号与工作类型，即可查看是否可计入第二年或第三年签证。资料取自澳洲内政部官方清单与相关法律文件，并非法律或移民建议。</p>
+        <p class="zh">澳打集簽地圖（Aussie Work Map）是免費的澳洲打工度假（417）與工作與度假（462）指定工作（集簽）郵遞區號查詢工具。輸入實際工作地點的郵遞區號與工作類型，就能查集簽工作算不算數、能不能拿二簽或三簽，也能在地圖上看偏遠地區（Regional）、北澳（Northern Australia）與服務業集簽適用的郵遞區號。資料取自澳洲內政部官方清單與相關法律文件，並非法律或移民建議。</p>
+        <p class="zh">澳打集签地图（Aussie Work Map）是免费的澳洲打工度假（417）与工作与度假（462）指定工作（集签）邮递区号查询工具。输入实际工作地点的邮递区号与工作类型，即可查看是否可计入第二年或第三年签证。资料取自澳洲内政部官方清单与相关法律文件，并非法律或移民建议。</p>
 
         <h2>Visas</h2>
         <ul>
           <li>Subclass 417 — Working Holiday visa</li>
           <li>Subclass 462 — Work and Holiday visa</li>
         </ul>
-        <p>To apply for a second or third visa, holders must usually complete a prescribed minimum period of specified work in certain industries and areas. Home Affairs describes this as at least 3 months (88 calendar days) of specified work on a first visa for a second visa, and at least 6 months (179 calendar days) of specified work on a second visa for a third visa. The two visas do not always use the same area rules. UK passport holders who lodge a 417 application on or after 1 July 2024 do not need specified work for a second or third 417 visa.</p>
+        <p>To apply for a second or third visa, holders must usually complete a prescribed minimum period of specified work in certain industries and areas. Home Affairs describes this as at least 3 months (88 calendar days) of specified work on a first visa for a second visa (rising to 120 days from 1 March 2027 unless the work is completed and a valid application lodged by 28 February 2027), and at least 6 months (179 calendar days) of specified work on a second visa for a third visa. The two visas do not always use the same area rules. UK passport holders who lodge a 417 application on or after 1 July 2024 do not need specified work for a second or third 417 visa.</p>
+
+        <h2>Policy update (announced 17 November 2026)</h2>
+        <ul>
+          <li>Complete your specified work and lodge a valid application by 28 February 2027: you can apply under the current process (88 days for a second visa).</li>
+          <li>From 1 March 2027: a second visa needs 120 days (4 months) of specified work; work done before then still counts. A third visa still needs 6 months.</li>
+          <li>From 1 March 2027: applicants for a second or third visa (except UK passport holders) must register and be invited (Next Year Regional Work Guarantee). Registration opens 1 December 2026.</li>
+          <li>The kinds of specified work and the postcode lists have not changed (re-checked 22 November 2026).</li>
+        </ul>
+        <p class="zh">政策更新（2026/11/17 公告）：2027/2/28 前做完指定工作並遞件，仍適用現行規定（二簽 88 天）；2027/3/1 起二簽改為 120 天（之前的天數可累計），三簽維持 6 個月（179 天）；申請二簽、三簽前須先登記並獲邀請（Next Year Regional Work Guarantee，英國護照除外），登記 2026/12/1 開放。集簽工作種類與郵遞區號清單沒有改變。<a href="https://www.homeaffairs.gov.au/news-subsite/Pages/2026-Nov/working-holiday-maker-visa-application-rules-are-changing.aspx">Home Affairs announcement</a></p>
 
         <h2>Job categories</h2>
         <ul>
@@ -192,6 +240,12 @@
         <dl>
           <dt>What is specified work?</dt>
           <dd>Specified work is work undertaken in a specified industry and area of Australia. The kinds of work and the areas are set by Home Affairs and by legal instruments LIN 22/012 (417) and LIN 22/013 (462). Always confirm the current rules on the official Home Affairs pages.</dd>
+          <dt>What changes on 1 March 2027?</dt>
+          <dd>A second visa will need 120 days (4 months) of specified work instead of 88 days; work done before 1 March 2027 still counts. A third visa still needs 6 months. If you complete your specified work and lodge a valid application by 28 February 2027, you can apply under the current process.</dd>
+          <dt>Do I need to register before applying for a second or third visa?</dt>
+          <dd>From 1 March 2027, yes, except UK passport holders. Register your interest (registration opens 1 December 2026); if invited, you receive a Next Year Regional Work Guarantee and have 12 months to apply. Registering does not guarantee an invitation or a visa.</dd>
+          <dt>集簽郵遞區號要看住的地方，還是工作地點？</dt>
+          <dd>要看實際工作的地點。請用農場、工地或工作單位的郵遞區號查詢。</dd>
           <dt>Why are 417 and 462 results different?</dt>
           <dd>The two visas do not have the same specified-work rules. For subclass 462, mining is not specified work anywhere in Australia, and fishing and pearling and tree farming and felling count only in Northern Australia.</dd>
           <dt>Does my home address postcode matter?</dt>

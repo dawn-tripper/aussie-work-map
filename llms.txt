@@ -1,6 +1,6 @@
-# Aussie Work Map
+# 澳打集簽地圖 Aussie Work Map
 
-Also known as 澳打集簽地圖 (Traditional Chinese) and 澳打集签地图 (Simplified Chinese). People sometimes write the English name as AussieWorkMap or Aussie Workmap.
+專為澳洲打工度假者製作的地圖 (a map made for working holiday makers). The Traditional Chinese name is 澳打集簽地圖, Simplified Chinese 澳打集签地图, English Aussie Work Map. People sometimes write the English name as AussieWorkMap or Aussie Workmap.
 
 > A free postcode checker for Australian Working Holiday (subclass 417) and Work and Holiday (subclass 462) specified work.
 
@@ -13,6 +13,16 @@ Aussie Work Map (澳打集簽地圖) is an independent planning tool. Choose a v
 It is not legal or migration advice, and it is not affiliated with the Australian Government. Rules and postcode lists can change; always confirm with the Department of Home Affairs or a registered migration agent before relying on a result.
 
 Created by Dawn.
+
+## Policy update (announced 17 November 2026)
+
+Source: Department of Home Affairs, "Working Holiday Maker visa application rules are changing" (17 Nov 2026), https://www.homeaffairs.gov.au/news-subsite/Pages/2026-Nov/working-holiday-maker-visa-application-rules-are-changing.aspx
+
+- Registration for a new registration and invitation process opens on 1 December 2026.
+- From 1 March 2027, people seeking a second or third 417/462 visa (except UK passport holders) must register, be invited (Next Year Regional Work Guarantee) and complete specified work before applying.
+- From 1 March 2027 the specified work requirement for a second visa rises from 88 days to 120 days. Eligible work completed before that date still counts. The third-visa requirement (6 months) does not change.
+- Transitional process: complete the required specified work and lodge a valid application by 28 February 2027 to apply directly.
+- The kinds of specified work and the postcode areas did not change (Home Affairs specified-work pages re-checked 22 November 2026).
 
 ## How to use it
 
@@ -29,7 +39,7 @@ You can also open a given state with URL parameters, for example `/?visa=462&job
 - Subclass 417 — Working Holiday visa
 - Subclass 462 — Work and Holiday visa
 
-To apply for a second or third visa, holders must usually complete a prescribed minimum period of specified work in certain industries and areas (Home Affairs: a second visa requires at least 3 months / 88 calendar days of specified work on the first visa; a third visa requires at least 6 months / 179 calendar days of specified work on the second visa). All specified work must be paid in accordance with relevant Australian legislation and awards, except that voluntary work may count when it is recovery work in bushfire-declared areas or other declared natural-disaster areas.
+To apply for a second or third visa, holders must usually complete a prescribed minimum period of specified work in certain industries and areas (Home Affairs: a second visa requires at least 3 months / 88 calendar days of specified work on the first visa, rising to 120 days from 1 March 2027 unless the work is completed and a valid application lodged by 28 February 2027; a third visa requires at least 6 months / 179 calendar days of specified work on the second visa). All specified work must be paid in accordance with relevant Australian legislation and awards, except that voluntary work may count when it is recovery work in bushfire-declared areas or other declared natural-disaster areas.
 
 UK passport holders who lodge a subclass 417 application on or after 1 July 2024 do not need to complete specified work for a second or third 417 visa. See the Home Affairs arrangements for UK passport holders.
 
@@ -57,12 +67,12 @@ The interface is available in 9 languages: English, Traditional Chinese, Simplif
 
 Eligibility answers are taken from official sources only; nothing is inferred from blogs or forums.
 
-- Department of Home Affairs, Specified work for Working Holiday visa (subclass 417): https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/specified-work (page last updated 4 November 2026; accessed 14 November 2026)
-- Department of Home Affairs, Specified work for Work and Holiday visa (subclass 462): https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462/specified-462-work (accessed 14 November 2026)
+- Department of Home Affairs, Specified work for Working Holiday visa (subclass 417): https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417/specified-work (page last updated 4 November 2026; accessed 22 November 2026)
+- Department of Home Affairs, Specified work for Work and Holiday visa (subclass 462): https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462/specified-462-work (accessed 22 November 2026)
 - LIN 22/012, Migration (Specified work and areas for subclass 417 visas) Instrument 2022, Compilation No. 3, F2025C00411, compiled 5 April 2025: https://www.legislation.gov.au/F2022L00271/latest
 - LIN 22/013, Migration (Specified work and areas for subclass 462 visas) Instrument 2022, Compilation No. 3, F2025C00412, compiled 5 April 2025: https://www.legislation.gov.au/F2022L00272/latest
 
-Map polygons are Australian Bureau of Statistics Postal Areas 2021 (CC BY 4.0) and are for display only. Suburb and region labels come from an open community dataset and never decide eligibility. Rules on this site were last verified 14 November 2026 (Asia/Taipei).
+Map polygons are Australian Bureau of Statistics Postal Areas 2021 (CC BY 4.0) and are for display only. Suburb and region labels come from an open community dataset and never decide eligibility. Rules on this site were last verified 22 November 2026 (Asia/Taipei).
 
 ## Contact and community
 
